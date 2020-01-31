@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RfViewTool::Renderer.copyright 'Richard A. Forth', 'All Rights Reserved.'
+```
 
 ## Development
 
